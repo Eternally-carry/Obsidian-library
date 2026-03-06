@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "91572544b7cbb911",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf1d8f3a41d2d9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cea07277f6f7959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电学/电学核心思想.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "电学核心思想"
+            }
+          },
+          {
+            "id": "3ee97d56ed630362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电学/电路基础/基本概念/04、半导体.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04、半导体"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f091cdfa95a8c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b777bd08960102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0abd52b6140b676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aad7186c98a31531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4616c84d5d8e4ba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "565cbdc9ba699261",
+    "type": "split",
+    "children": [
+      {
+        "id": "047cf7f72a61accf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b09ff6a1a9c6e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电学/电学核心思想.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "电学核心思想 的反向链接列表"
+            }
+          },
+          {
+            "id": "9201c10b5feea764",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电学/电路基础/基本概念/04、半导体.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "04、半导体 的出链列表"
+            }
+          },
+          {
+            "id": "783922d34b47d68d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6c52c8722d0284ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "976f0b46ef4617a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电学/电路基础/基本概念/04、半导体.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "04、半导体 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "3ee97d56ed630362",
+  "lastOpenFiles": [
+    "电学/电路基础/基本概念/03、电阻.md",
+    "电学/电路基础/基本概念/附件/二极管PN节示意图.png",
+    "电学/电路基础/基本概念/附件/Drawing 2026-02-26 22.01.58.excalidraw.md",
+    "电学/电路基础/基本概念/04、半导体.md",
+    "电学/电路基础/基本概念/附件",
+    "电学/电学核心思想.md",
+    "计算机/硬件/真空管.md",
+    "计算机/未命名.md",
+    "计算机/计算机发展史（宏观）.md",
+    "计算机/硬件/晶体管.md",
+    "计算机/硬件/冯诺依曼计算机结构.md",
+    "电学/电路基础/基本概念/01、电势.md",
+    "电学/电路基础/基本概念/02、电势差（电压）.md",
+    "电学/电路基础/基本概念/电学的核心思想.md",
+    "未命名",
+    "电学/电路基础/基本概念",
+    "电学/电路基础",
+    "网络服务架构.md",
+    "未命名.canvas",
+    "电学",
+    "计算机/IAS.md",
+    "计算机/硬件",
+    "计算机/网络/未命名",
+    "硬件",
+    "硬件",
+    "创建链接.md",
+    "计算机/未命名 1.md",
+    "计算机/网络",
+    "欢迎.md",
+    "未命名 3.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "Excalidraw/Drawing 2026-02-24 14.12.34.excalidraw.md",
+    "计算机/Drawing 2026-02-24 14.11.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-24 13.58.58.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-24 13.48.18.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-24 00.26.09.excalidraw.md"
+  ]
+}

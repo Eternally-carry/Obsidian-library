@@ -1,0 +1,9 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true
+}
